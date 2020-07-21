@@ -1,4 +1,4 @@
 package com.othellogame
 
-class Field(var isFilled: Boolean = false, var disk: Disk)
+class Field(var row: Int, var column: Int)
 

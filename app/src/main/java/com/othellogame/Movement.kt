@@ -1,3 +1,3 @@
 package com.othellogame
 
-class Movement(var row: Int, var column: Int, var disk: Disk)
+data class Movement(val row: Int, val column: Int, val disk: Disk)

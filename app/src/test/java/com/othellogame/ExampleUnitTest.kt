@@ -38,5 +38,7 @@ class ExampleUnitTest {
         assertEquals("W", board.getValueInPosition(4,4))
     }
 
+
+
 }
 
